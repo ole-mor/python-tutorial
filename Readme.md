@@ -29,14 +29,4 @@ Step-by-step guide on how to install the required tools, dependencies, and how t
 Outline the structure of the project, including key files and directories.
 
 ```bash
-project/
-│
-├── README.md
-├── requirements.txt
-├── tutorial/
-│   ├── __init__.py
-│   ├── part_1.py
-│   ├── part_2.py
-│   └── ...
-└── tests/
-    └── test_part_1.py
+Lalalalala
